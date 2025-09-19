@@ -1,0 +1,12 @@
+# Virtual Environment
+myenv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Model files (since it's now on Hugging Face)
+*.pkl
+
+# Streamlit cache
+.streamlit/
